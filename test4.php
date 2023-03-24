@@ -1,1 +1,3 @@
-<?php echo 'true'; ?>
+<?php
+  echo "true";
+?>
